@@ -1,0 +1,10 @@
+C:\Users\pronn\source\repos\Log4CS\Log4CS\bin\Debug\Log4CS.exe.config
+C:\Users\pronn\source\repos\Log4CS\Log4CS\bin\Debug\Log4CS.exe
+C:\Users\pronn\source\repos\Log4CS\Log4CS\bin\Debug\Log4CS.pdb
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.csproj.AssemblyReference.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.Form1.resources
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.Properties.Resources.resources
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.csproj.GenerateResource.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.csproj.CoreCompileInputs.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.exe
+C:\Users\pronn\source\repos\Log4CS\Log4CS\obj\Debug\Log4CS.pdb
