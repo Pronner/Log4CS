@@ -8,7 +8,3 @@ There's no need to credit me for this, this is incredibly simple to make. I thou
 ## Usage
 
 Please make sure to modify your application/game aswell before you use Log4CS. Log4CS may provide **vulnerabilities** exactly how Log4j's vulnerabilities were shown to the world (the exploit is Log4jShell/Log4Shell). Log4CS may be used for **personal and commercial/business use**.
-
-## Contact
-
-Get in contact with us via `support@pronnerstudios.com` or **Discord: Pronner#0001 (the developer)**.
