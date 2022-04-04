@@ -1,0 +1,6 @@
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Library\bin\Debug\Log4CS.Library.dll
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Library\bin\Debug\Log4CS.Library.pdb
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Library\obj\Debug\Log4CS.Library.csproj.AssemblyReference.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Library\obj\Debug\Log4CS.Library.csproj.CoreCompileInputs.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Library\obj\Debug\Log4CS.Library.dll
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Library\obj\Debug\Log4CS.Library.pdb

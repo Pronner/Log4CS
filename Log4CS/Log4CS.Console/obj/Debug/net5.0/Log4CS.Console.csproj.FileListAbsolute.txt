@@ -1,0 +1,16 @@
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\Log4CS.Console.exe
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\Log4CS.Console.deps.json
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\Log4CS.Console.runtimeconfig.json
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\Log4CS.Console.runtimeconfig.dev.json
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\Log4CS.Console.dll
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\ref\Log4CS.Console.dll
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\bin\Debug\net5.0\Log4CS.Console.pdb
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.csproj.AssemblyReference.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.AssemblyInfoInputs.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.AssemblyInfo.cs
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.csproj.CoreCompileInputs.cache
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.dll
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\ref\Log4CS.Console.dll
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.pdb
+C:\Users\pronn\source\repos\Log4CS\Log4CS.Console\obj\Debug\net5.0\Log4CS.Console.genruntimeconfig.cache
